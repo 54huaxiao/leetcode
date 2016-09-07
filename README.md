@@ -1,2 +1,2 @@
 # leetcode
-algorithm 
+so code for algorithm 
